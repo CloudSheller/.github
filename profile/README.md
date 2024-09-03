@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 and Welcome! 
 
+We are a student group that are developing a fullstack app for an assigment
 <!--
 
 **Here are some ideas to get you started:**
